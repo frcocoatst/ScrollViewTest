@@ -13,6 +13,8 @@ ClipView
 ![Bild2 Image](https://github.com/frcocoatst/ScrollViewTest/blob/master/Bild2.png)
 Set Layout of the displayed View
 ![Bild3 Image](https://github.com/frcocoatst/ScrollViewTest/blob/master/Bild3.png)
-
+Add Constraints for Width and Height of MyView
+Add others unresoved Constraints
+![Bild1 Image](https://github.com/frcocoatst/ScrollViewTest/blob/master/Bild1.png)
 
 
